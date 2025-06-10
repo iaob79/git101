@@ -1,4 +1,5 @@
 name: joe
+email: joe.h@red.red
 surename: hey
 fav_color: red
 id: 001
